@@ -1,0 +1,1 @@
+console.log('Hello world! Docker is pretty cool dude!!!!')
